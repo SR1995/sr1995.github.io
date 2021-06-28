@@ -37,13 +37,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-```latex
- \begin{displaymath} 
+\begin{displaymath} 
 S_{n+1} = S_{n} + S_{n},  
 S_{n}=1=2^{n} 
 \end{displaymath}
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
